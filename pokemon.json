@@ -1,0 +1,1784 @@
+[
+    {
+        "n_id": " #001",
+        "secondary_type": " Poison",
+        "name": " Bulbasaur",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #002",
+        "secondary_type": " Poison",
+        "name": " Ivysaur",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #003",
+        "secondary_type": " Poison",
+        "name": " Venusaur",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #006",
+        "secondary_type": " Flying",
+        "name": " Charizard",
+        "primary_type": " Fire"
+    },
+    {
+        "n_id": " #012",
+        "secondary_type": " Flying",
+        "name": " Butterfree",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #013",
+        "secondary_type": " Poison",
+        "name": " Weedle",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #014",
+        "secondary_type": " Poison",
+        "name": " Kakuna",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #015",
+        "secondary_type": " Poison",
+        "name": " Beedrill",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #016",
+        "secondary_type": " Flying",
+        "name": " Pidgey",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #017",
+        "secondary_type": " Flying",
+        "name": " Pidgeotto",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #018",
+        "secondary_type": " Flying",
+        "name": " Pidgeot",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #021",
+        "secondary_type": " Flying",
+        "name": " Spearow",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #022",
+        "secondary_type": " Flying",
+        "name": " Fearow",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #031",
+        "secondary_type": " Ground",
+        "name": " Nidoqueen",
+        "primary_type": " Poison"
+    },
+    {
+        "n_id": " #034",
+        "secondary_type": " Ground",
+        "name": " Nidoking",
+        "primary_type": " Poison"
+    },
+    {
+        "n_id": " #041",
+        "secondary_type": " Flying",
+        "name": " Zubat",
+        "primary_type": " Poison"
+    },
+    {
+        "n_id": " #042",
+        "secondary_type": " Flying",
+        "name": " Golbat",
+        "primary_type": " Poison"
+    },
+    {
+        "n_id": " #043",
+        "secondary_type": " Poison",
+        "name": " Oddish",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #044",
+        "secondary_type": " Poison",
+        "name": " Gloom",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #045",
+        "secondary_type": " Poison",
+        "name": " Vileplume",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #046",
+        "secondary_type": " Grass",
+        "name": " Paras",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #047",
+        "secondary_type": " Grass",
+        "name": " Parasect",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #048",
+        "secondary_type": " Poison",
+        "name": " Venonat",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #049",
+        "secondary_type": " Poison",
+        "name": " Venomoth",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #062",
+        "secondary_type": " Fighting",
+        "name": " Poliwrath",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #069",
+        "secondary_type": " Poison",
+        "name": " Bellsprout",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #070",
+        "secondary_type": " Poison",
+        "name": " Weepinbell",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #071",
+        "secondary_type": " Poison",
+        "name": " Victreebel",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #072",
+        "secondary_type": " Poison",
+        "name": " Tentacool",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #073",
+        "secondary_type": " Poison",
+        "name": " Tentacruel",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #074",
+        "secondary_type": " Ground",
+        "name": " Geodude",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #075",
+        "secondary_type": " Ground",
+        "name": " Graveler",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #076",
+        "secondary_type": " Ground",
+        "name": " Golem",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #079",
+        "secondary_type": " Psychic",
+        "name": " Slowpoke",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #080",
+        "secondary_type": " Psychic",
+        "name": " Slowbro",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #081",
+        "secondary_type": " Steel",
+        "name": " Magnemite",
+        "primary_type": " Electric"
+    },
+    {
+        "n_id": " #082",
+        "secondary_type": " Steel",
+        "name": " Magneton",
+        "primary_type": " Electric"
+    },
+    {
+        "n_id": " #083",
+        "secondary_type": " Flying",
+        "name": " Farfetch'd",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #084",
+        "secondary_type": " Flying",
+        "name": " Doduo",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #085",
+        "secondary_type": " Flying",
+        "name": " Dodrio",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #087",
+        "secondary_type": " Ice",
+        "name": " Dewgong",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #091",
+        "secondary_type": " Ice",
+        "name": " Cloyster",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #092",
+        "secondary_type": " Poison",
+        "name": " Gastly",
+        "primary_type": " Ghost"
+    },
+    {
+        "n_id": " #093",
+        "secondary_type": " Poison",
+        "name": " Haunter",
+        "primary_type": " Ghost"
+    },
+    {
+        "n_id": " #094",
+        "secondary_type": " Poison",
+        "name": " Gengar",
+        "primary_type": " Ghost"
+    },
+    {
+        "n_id": " #095",
+        "secondary_type": " Ground",
+        "name": " Onix",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #102",
+        "secondary_type": " Psychic",
+        "name": " Exeggcute",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #103",
+        "secondary_type": " Psychic",
+        "name": " Exeggutor",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #111",
+        "secondary_type": " Rock",
+        "name": " Rhyhorn",
+        "primary_type": " Ground"
+    },
+    {
+        "n_id": " #112",
+        "secondary_type": " Rock",
+        "name": " Rhydon",
+        "primary_type": " Ground"
+    },
+    {
+        "n_id": " #121",
+        "secondary_type": " Psychic",
+        "name": " Starmie",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #123",
+        "secondary_type": " Flying",
+        "name": " Scyther",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #124",
+        "secondary_type": " Psychic",
+        "name": " Jynx",
+        "primary_type": " Ice"
+    },
+    {
+        "n_id": " #130",
+        "secondary_type": " Flying",
+        "name": " Gyarados",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #131",
+        "secondary_type": " Ice",
+        "name": " Lapras",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #138",
+        "secondary_type": " Water",
+        "name": " Omanyte",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #139",
+        "secondary_type": " Water",
+        "name": " Omastar",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #140",
+        "secondary_type": " Water",
+        "name": " Kabuto",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #141",
+        "secondary_type": " Water",
+        "name": " Kabutops",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #142",
+        "secondary_type": " Flying",
+        "name": " Aerodactyl",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #144",
+        "secondary_type": " Flying",
+        "name": " Articuno",
+        "primary_type": " Ice"
+    },
+    {
+        "n_id": " #145",
+        "secondary_type": " Flying",
+        "name": " Zapdos",
+        "primary_type": " Electric"
+    },
+    {
+        "n_id": " #146",
+        "secondary_type": " Flying",
+        "name": " Moltres",
+        "primary_type": " Fire"
+    },
+    {
+        "n_id": " #149",
+        "secondary_type": " Flying",
+        "name": " Dragonite",
+        "primary_type": " Dragon"
+    },
+    {
+        "n_id": " #163",
+        "secondary_type": " Flying",
+        "name": " Hoothoot",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #164",
+        "secondary_type": " Flying",
+        "name": " Noctowl",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #165",
+        "secondary_type": " Flying",
+        "name": " Ledyba",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #166",
+        "secondary_type": " Flying",
+        "name": " Ledian",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #167",
+        "secondary_type": " Poison",
+        "name": " Spinarak",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #168",
+        "secondary_type": " Poison",
+        "name": " Ariados",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #169",
+        "secondary_type": " Flying",
+        "name": " Crobat",
+        "primary_type": " Poison"
+    },
+    {
+        "n_id": " #170",
+        "secondary_type": " Electric",
+        "name": " Chinchou",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #171",
+        "secondary_type": " Electric",
+        "name": " Lanturn",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #176",
+        "secondary_type": " Flying",
+        "name": " Togetic",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #177",
+        "secondary_type": " Flying",
+        "name": " Natu",
+        "primary_type": " Psychic"
+    },
+    {
+        "n_id": " #178",
+        "secondary_type": " Flying",
+        "name": " Xatu",
+        "primary_type": " Psychic"
+    },
+    {
+        "n_id": " #187",
+        "secondary_type": " Flying",
+        "name": " Hoppip",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #188",
+        "secondary_type": " Flying",
+        "name": " Skiploom",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #189",
+        "secondary_type": " Flying",
+        "name": " Jumpluff",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #193",
+        "secondary_type": " Flying",
+        "name": " Yanma",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #194",
+        "secondary_type": " Ground",
+        "name": " Wooper",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #195",
+        "secondary_type": " Ground",
+        "name": " Quagsire",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #198",
+        "secondary_type": " Flying",
+        "name": " Murkrow",
+        "primary_type": " Dark"
+    },
+    {
+        "n_id": " #199",
+        "secondary_type": " Psychic",
+        "name": " Slowking",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #203",
+        "secondary_type": " Psychic",
+        "name": " Girafarig",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #205",
+        "secondary_type": " Steel",
+        "name": " Forretress",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #207",
+        "secondary_type": " Flying",
+        "name": " Gligar",
+        "primary_type": " Ground"
+    },
+    {
+        "n_id": " #208",
+        "secondary_type": " Ground",
+        "name": " Steelix",
+        "primary_type": " Steel"
+    },
+    {
+        "n_id": " #211",
+        "secondary_type": " Poison",
+        "name": " Qwilfish",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #212",
+        "secondary_type": " Steel",
+        "name": " Scizor",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #213",
+        "secondary_type": " Rock",
+        "name": " Shuckle",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #214",
+        "secondary_type": " Fighting",
+        "name": " Heracross",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #215",
+        "secondary_type": " Ice",
+        "name": " Sneasel",
+        "primary_type": " Dark"
+    },
+    {
+        "n_id": " #219",
+        "secondary_type": " Rock",
+        "name": " Magcargo",
+        "primary_type": " Fire"
+    },
+    {
+        "n_id": " #220",
+        "secondary_type": " Ground",
+        "name": " Swinub",
+        "primary_type": " Ice"
+    },
+    {
+        "n_id": " #221",
+        "secondary_type": " Ground",
+        "name": " Piloswine",
+        "primary_type": " Ice"
+    },
+    {
+        "n_id": " #222",
+        "secondary_type": " Rock",
+        "name": " Corsola",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #225",
+        "secondary_type": " Flying",
+        "name": " Delibird",
+        "primary_type": " Ice"
+    },
+    {
+        "n_id": " #226",
+        "secondary_type": " Flying",
+        "name": " Mantine",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #227",
+        "secondary_type": " Flying",
+        "name": " Skarmory",
+        "primary_type": " Steel"
+    },
+    {
+        "n_id": " #228",
+        "secondary_type": " Fire",
+        "name": " Houndour",
+        "primary_type": " Dark"
+    },
+    {
+        "n_id": " #229",
+        "secondary_type": " Fire",
+        "name": " Houndoom",
+        "primary_type": " Dark"
+    },
+    {
+        "n_id": " #230",
+        "secondary_type": " Dragon",
+        "name": " Kingdra",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #238",
+        "secondary_type": " Psychic",
+        "name": " Smoochum",
+        "primary_type": " Ice"
+    },
+    {
+        "n_id": " #246",
+        "secondary_type": " Ground",
+        "name": " Larvitar",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #247",
+        "secondary_type": " Ground",
+        "name": " Pupitar",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #248",
+        "secondary_type": " Dark",
+        "name": " Tyranitar",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #249",
+        "secondary_type": " Flying",
+        "name": " Lugia",
+        "primary_type": " Psychic"
+    },
+    {
+        "n_id": " #250",
+        "secondary_type": " Flying",
+        "name": " Ho-Oh",
+        "primary_type": " Fire"
+    },
+    {
+        "n_id": " #251",
+        "secondary_type": " Grass",
+        "name": " Celebi",
+        "primary_type": " Psychic"
+    },
+    {
+        "n_id": " #256",
+        "secondary_type": " Fighting",
+        "name": " Combusken",
+        "primary_type": " Fire"
+    },
+    {
+        "n_id": " #257",
+        "secondary_type": " Fighting",
+        "name": " Blaziken",
+        "primary_type": " Fire"
+    },
+    {
+        "n_id": " #259",
+        "secondary_type": " Ground",
+        "name": " Marshtomp",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #260",
+        "secondary_type": " Ground",
+        "name": " Swampert",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #267",
+        "secondary_type": " Flying",
+        "name": " Beautifly",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #269",
+        "secondary_type": " Poison",
+        "name": " Dustox",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #270",
+        "secondary_type": " Grass",
+        "name": " Lotad",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #271",
+        "secondary_type": " Grass",
+        "name": " Lombre",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #272",
+        "secondary_type": " Grass",
+        "name": " Ludicolo",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #274",
+        "secondary_type": " Dark",
+        "name": " Nuzleaf",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #275",
+        "secondary_type": " Dark",
+        "name": " Shiftry",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #276",
+        "secondary_type": " Flying",
+        "name": " Taillow",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #277",
+        "secondary_type": " Flying",
+        "name": " Swellow",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #278",
+        "secondary_type": " Flying",
+        "name": " Wingull",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #279",
+        "secondary_type": " Flying",
+        "name": " Pelipper",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #283",
+        "secondary_type": " Water",
+        "name": " Surskit",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #284",
+        "secondary_type": " Flying",
+        "name": " Masquerain",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #286",
+        "secondary_type": " Fighting",
+        "name": " Breloom",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #290",
+        "secondary_type": " Ground",
+        "name": " Nincada",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #291",
+        "secondary_type": " Flying",
+        "name": " Ninjask",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #292",
+        "secondary_type": " Ghost",
+        "name": " Shedinja",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #302",
+        "secondary_type": " Ghost",
+        "name": " Sableye",
+        "primary_type": " Dark"
+    },
+    {
+        "n_id": " #304",
+        "secondary_type": " Rock",
+        "name": " Aron",
+        "primary_type": " Steel"
+    },
+    {
+        "n_id": " #305",
+        "secondary_type": " Rock",
+        "name": " Lairon",
+        "primary_type": " Steel"
+    },
+    {
+        "n_id": " #306",
+        "secondary_type": " Rock",
+        "name": " Aggron",
+        "primary_type": " Steel"
+    },
+    {
+        "n_id": " #307",
+        "secondary_type": " Psychic",
+        "name": " Meditite",
+        "primary_type": " Fighting"
+    },
+    {
+        "n_id": " #308",
+        "secondary_type": " Psychic",
+        "name": " Medicham",
+        "primary_type": " Fighting"
+    },
+    {
+        "n_id": " #315",
+        "secondary_type": " Poison",
+        "name": " Roselia",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #318",
+        "secondary_type": " Dark",
+        "name": " Carvanha",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #319",
+        "secondary_type": " Dark",
+        "name": " Sharpedo",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #322",
+        "secondary_type": " Ground",
+        "name": " Numel",
+        "primary_type": " Fire"
+    },
+    {
+        "n_id": " #323",
+        "secondary_type": " Ground",
+        "name": " Camerupt",
+        "primary_type": " Fire"
+    },
+    {
+        "n_id": " #329",
+        "secondary_type": " Dragon",
+        "name": " Vibrava",
+        "primary_type": " Ground"
+    },
+    {
+        "n_id": " #330",
+        "secondary_type": " Dragon",
+        "name": " Flygon",
+        "primary_type": " Ground"
+    },
+    {
+        "n_id": " #332",
+        "secondary_type": " Dark",
+        "name": " Cacturne",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #333",
+        "secondary_type": " Flying",
+        "name": " Swablu",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #334",
+        "secondary_type": " Flying",
+        "name": " Altaria",
+        "primary_type": " Dragon"
+    },
+    {
+        "n_id": " #337",
+        "secondary_type": " Psychic",
+        "name": " Lunatone",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #338",
+        "secondary_type": " Psychic",
+        "name": " Solrock",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #339",
+        "secondary_type": " Ground",
+        "name": " Barboach",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #340",
+        "secondary_type": " Ground",
+        "name": " Whiscash",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #342",
+        "secondary_type": " Dark",
+        "name": " Crawdaunt",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #343",
+        "secondary_type": " Psychic",
+        "name": " Baltoy",
+        "primary_type": " Ground"
+    },
+    {
+        "n_id": " #344",
+        "secondary_type": " Psychic",
+        "name": " Claydol",
+        "primary_type": " Ground"
+    },
+    {
+        "n_id": " #345",
+        "secondary_type": " Grass",
+        "name": " Lileep",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #346",
+        "secondary_type": " Grass",
+        "name": " Cradily",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #347",
+        "secondary_type": " Bug",
+        "name": " Anorith",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #348",
+        "secondary_type": " Bug",
+        "name": " Armaldo",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #357",
+        "secondary_type": " Flying",
+        "name": " Tropius",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #363",
+        "secondary_type": " Water",
+        "name": " Spheal",
+        "primary_type": " Ice"
+    },
+    {
+        "n_id": " #364",
+        "secondary_type": " Water",
+        "name": " Sealeo",
+        "primary_type": " Ice"
+    },
+    {
+        "n_id": " #365",
+        "secondary_type": " Water",
+        "name": " Walrein",
+        "primary_type": " Ice"
+    },
+    {
+        "n_id": " #369",
+        "secondary_type": " Rock",
+        "name": " Relicanth",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #373",
+        "secondary_type": " Flying",
+        "name": " Salamence",
+        "primary_type": " Dragon"
+    },
+    {
+        "n_id": " #374",
+        "secondary_type": " Psychic",
+        "name": " Beldum",
+        "primary_type": " Steel"
+    },
+    {
+        "n_id": " #375",
+        "secondary_type": " Psychic",
+        "name": " Metang",
+        "primary_type": " Steel"
+    },
+    {
+        "n_id": " #376",
+        "secondary_type": " Psychic",
+        "name": " Metagross",
+        "primary_type": " Steel"
+    },
+    {
+        "n_id": " #380",
+        "secondary_type": " Psychic",
+        "name": " Latias",
+        "primary_type": " Dragon"
+    },
+    {
+        "n_id": " #381",
+        "secondary_type": " Psychic",
+        "name": " Latios",
+        "primary_type": " Dragon"
+    },
+    {
+        "n_id": " #384",
+        "secondary_type": " Flying",
+        "name": " Rayquaza",
+        "primary_type": " Dragon"
+    },
+    {
+        "n_id": " #385",
+        "secondary_type": " Psychic",
+        "name": " Jirachi",
+        "primary_type": " Steel"
+    },
+    {
+        "n_id": " #389",
+        "secondary_type": " Ground",
+        "name": " Torterra",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #391",
+        "secondary_type": " Fighting",
+        "name": " Monferno",
+        "primary_type": " Fire"
+    },
+    {
+        "n_id": " #392",
+        "secondary_type": " Fighting",
+        "name": " Infernape",
+        "primary_type": " Fire"
+    },
+    {
+        "n_id": " #395",
+        "secondary_type": " Steel",
+        "name": " Empoleon",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #396",
+        "secondary_type": " Flying",
+        "name": " Starly",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #397",
+        "secondary_type": " Flying",
+        "name": " Staravia",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #398",
+        "secondary_type": " Flying",
+        "name": " Staraptor",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #400",
+        "secondary_type": " Water",
+        "name": " Bibarel",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #406",
+        "secondary_type": " Poison",
+        "name": " Budew",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #407",
+        "secondary_type": " Poison",
+        "name": " Roserade",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #410",
+        "secondary_type": " Steel",
+        "name": " Shieldon",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #411",
+        "secondary_type": " Steel",
+        "name": " Bastiodon",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #413",
+        "secondary_type": " Steel",
+        "name": " Wormadam",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #414",
+        "secondary_type": " Flying",
+        "name": " Mothim",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #415",
+        "secondary_type": " Flying",
+        "name": " Combee",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #416",
+        "secondary_type": " Flying",
+        "name": " Vespiquen",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #423",
+        "secondary_type": " Ground",
+        "name": " Gastrodon",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #425",
+        "secondary_type": " Flying",
+        "name": " Drifloon",
+        "primary_type": " Ghost"
+    },
+    {
+        "n_id": " #426",
+        "secondary_type": " Flying",
+        "name": " Drifblim",
+        "primary_type": " Ghost"
+    },
+    {
+        "n_id": " #430",
+        "secondary_type": " Flying",
+        "name": " Honchkrow",
+        "primary_type": " Dark"
+    },
+    {
+        "n_id": " #434",
+        "secondary_type": " Dark",
+        "name": " Stunky",
+        "primary_type": " Poison"
+    },
+    {
+        "n_id": " #435",
+        "secondary_type": " Dark",
+        "name": " Skuntank",
+        "primary_type": " Poison"
+    },
+    {
+        "n_id": " #436",
+        "secondary_type": " Psychic",
+        "name": " Bronzor",
+        "primary_type": " Steel"
+    },
+    {
+        "n_id": " #437",
+        "secondary_type": " Psychic",
+        "name": " Bronzong",
+        "primary_type": " Steel"
+    },
+    {
+        "n_id": " #441",
+        "secondary_type": " Flying",
+        "name": " Chatot",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #442",
+        "secondary_type": " Dark",
+        "name": " Spiritomb",
+        "primary_type": " Ghost"
+    },
+    {
+        "n_id": " #443",
+        "secondary_type": " Ground",
+        "name": " Gible",
+        "primary_type": " Dragon"
+    },
+    {
+        "n_id": " #444",
+        "secondary_type": " Ground",
+        "name": " Gabite",
+        "primary_type": " Dragon"
+    },
+    {
+        "n_id": " #445",
+        "secondary_type": " Ground",
+        "name": " Garchomp",
+        "primary_type": " Dragon"
+    },
+    {
+        "n_id": " #448",
+        "secondary_type": " Steel",
+        "name": " Lucario",
+        "primary_type": " Fighting"
+    },
+    {
+        "n_id": " #451",
+        "secondary_type": " Bug",
+        "name": " Skorupi",
+        "primary_type": " Poison"
+    },
+    {
+        "n_id": " #452",
+        "secondary_type": " Dark",
+        "name": " Drapion",
+        "primary_type": " Poison"
+    },
+    {
+        "n_id": " #453",
+        "secondary_type": " Fighting",
+        "name": " Croagunk",
+        "primary_type": " Poison"
+    },
+    {
+        "n_id": " #454",
+        "secondary_type": " Fighting",
+        "name": " Toxicroak",
+        "primary_type": " Poison"
+    },
+    {
+        "n_id": " #458",
+        "secondary_type": " Flying",
+        "name": " Mantyke",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #459",
+        "secondary_type": " Ice",
+        "name": " Snover",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #460",
+        "secondary_type": " Ice",
+        "name": " Abomasnow",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #461",
+        "secondary_type": " Ice",
+        "name": " Weavile",
+        "primary_type": " Dark"
+    },
+    {
+        "n_id": " #462",
+        "secondary_type": " Steel",
+        "name": " Magnezone",
+        "primary_type": " Electric"
+    },
+    {
+        "n_id": " #464",
+        "secondary_type": " Rock",
+        "name": " Rhyperior",
+        "primary_type": " Ground"
+    },
+    {
+        "n_id": " #468",
+        "secondary_type": " Flying",
+        "name": " Togekiss",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #469",
+        "secondary_type": " Flying",
+        "name": " Yanmega",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #472",
+        "secondary_type": " Flying",
+        "name": " Gliscor",
+        "primary_type": " Ground"
+    },
+    {
+        "n_id": " #473",
+        "secondary_type": " Ground",
+        "name": " Mamoswine",
+        "primary_type": " Ice"
+    },
+    {
+        "n_id": " #475",
+        "secondary_type": " Fighting",
+        "name": " Gallade",
+        "primary_type": " Psychic"
+    },
+    {
+        "n_id": " #476",
+        "secondary_type": " Steel",
+        "name": " Probopass",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #478",
+        "secondary_type": " Ghost",
+        "name": " Froslass",
+        "primary_type": " Ice"
+    },
+    {
+        "n_id": " #479",
+        "secondary_type": " Grass",
+        "name": " Rotom",
+        "primary_type": " Electric"
+    },
+    {
+        "n_id": " #483",
+        "secondary_type": " Dragon",
+        "name": " Dialga",
+        "primary_type": " Steel"
+    },
+    {
+        "n_id": " #484",
+        "secondary_type": " Dragon",
+        "name": " Palkia",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #485",
+        "secondary_type": " Steel",
+        "name": " Heatran",
+        "primary_type": " Fire"
+    },
+    {
+        "n_id": " #487",
+        "secondary_type": " Dragon",
+        "name": " Giratina",
+        "primary_type": " Ghost"
+    },
+    {
+        "n_id": " #492",
+        "secondary_type": " Flying",
+        "name": " Shaymin",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #494",
+        "secondary_type": " Fire",
+        "name": " Victini",
+        "primary_type": " Psychic"
+    },
+    {
+        "n_id": " #499",
+        "secondary_type": " Fighting",
+        "name": " Pignite",
+        "primary_type": " Fire"
+    },
+    {
+        "n_id": " #500",
+        "secondary_type": " Fighting",
+        "name": " Emboar",
+        "primary_type": " Fire"
+    },
+    {
+        "n_id": " #519",
+        "secondary_type": " Flying",
+        "name": " Pidove",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #520",
+        "secondary_type": " Flying",
+        "name": " Tranquill",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #521",
+        "secondary_type": " Flying",
+        "name": " Unfezant",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #527",
+        "secondary_type": " Flying",
+        "name": " Woobat",
+        "primary_type": " Psychic"
+    },
+    {
+        "n_id": " #528",
+        "secondary_type": " Flying",
+        "name": " Swoobat",
+        "primary_type": " Psychic"
+    },
+    {
+        "n_id": " #530",
+        "secondary_type": " Steel",
+        "name": " Excadrill",
+        "primary_type": " Ground"
+    },
+    {
+        "n_id": " #536",
+        "secondary_type": " Ground",
+        "name": " Palpitoad",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #537",
+        "secondary_type": " Ground",
+        "name": " Seismitoad",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #540",
+        "secondary_type": " Grass",
+        "name": " Sewaddle",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #541",
+        "secondary_type": " Grass",
+        "name": " Swadloon",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #542",
+        "secondary_type": " Grass",
+        "name": " Leavanny",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #543",
+        "secondary_type": " Poison",
+        "name": " Venipede",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #544",
+        "secondary_type": " Poison",
+        "name": " Whirlipede",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #545",
+        "secondary_type": " Poison",
+        "name": " Scolipede",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #551",
+        "secondary_type": " Dark",
+        "name": " Sandile",
+        "primary_type": " Ground"
+    },
+    {
+        "n_id": " #552",
+        "secondary_type": " Dark",
+        "name": " Krokorok",
+        "primary_type": " Ground"
+    },
+    {
+        "n_id": " #553",
+        "secondary_type": " Dark",
+        "name": " Krookodile",
+        "primary_type": " Ground"
+    },
+    {
+        "n_id": " #555",
+        "secondary_type": " Psychic",
+        "name": " Darmanitan",
+        "primary_type": " Fire"
+    },
+    {
+        "n_id": " #557",
+        "secondary_type": " Rock",
+        "name": " Dwebble",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #558",
+        "secondary_type": " Rock",
+        "name": " Crustle",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #559",
+        "secondary_type": " Fighting",
+        "name": " Scraggy",
+        "primary_type": " Dark"
+    },
+    {
+        "n_id": " #560",
+        "secondary_type": " Fighting",
+        "name": " Scrafty",
+        "primary_type": " Dark"
+    },
+    {
+        "n_id": " #561",
+        "secondary_type": " Flying",
+        "name": " Sigilyph",
+        "primary_type": " Psychic"
+    },
+    {
+        "n_id": " #564",
+        "secondary_type": " Rock",
+        "name": " Tirtouga",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #565",
+        "secondary_type": " Rock",
+        "name": " Carracosta",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #566",
+        "secondary_type": " Flying",
+        "name": " Archen",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #567",
+        "secondary_type": " Flying",
+        "name": " Archeops",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #580",
+        "secondary_type": " Flying",
+        "name": " Ducklett",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #581",
+        "secondary_type": " Flying",
+        "name": " Swanna",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #585",
+        "secondary_type": " Grass",
+        "name": " Deerling",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #586",
+        "secondary_type": " Grass",
+        "name": " Sawsbuck",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #587",
+        "secondary_type": " Flying",
+        "name": " Emolga",
+        "primary_type": " Electric"
+    },
+    {
+        "n_id": " #589",
+        "secondary_type": " Steel",
+        "name": " Escavalier",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #590",
+        "secondary_type": " Poison",
+        "name": " Foongus",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #591",
+        "secondary_type": " Poison",
+        "name": " Amoonguss",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #592",
+        "secondary_type": " Ghost",
+        "name": " Frillish",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #593",
+        "secondary_type": " Ghost",
+        "name": " Jellicent",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #595",
+        "secondary_type": " Electric",
+        "name": " Joltik",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #596",
+        "secondary_type": " Electric",
+        "name": " Galvantula",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #597",
+        "secondary_type": " Steel",
+        "name": " Ferroseed",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #598",
+        "secondary_type": " Steel",
+        "name": " Ferrothorn",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #607",
+        "secondary_type": " Fire",
+        "name": " Litwick",
+        "primary_type": " Ghost"
+    },
+    {
+        "n_id": " #608",
+        "secondary_type": " Fire",
+        "name": " Lampent",
+        "primary_type": " Ghost"
+    },
+    {
+        "n_id": " #609",
+        "secondary_type": " Fire",
+        "name": " Chandelure",
+        "primary_type": " Ghost"
+    },
+    {
+        "n_id": " #618",
+        "secondary_type": " Electric",
+        "name": " Stunfisk",
+        "primary_type": " Ground"
+    },
+    {
+        "n_id": " #622",
+        "secondary_type": " Ghost",
+        "name": " Golett",
+        "primary_type": " Ground"
+    },
+    {
+        "n_id": " #623",
+        "secondary_type": " Ghost",
+        "name": " Golurk",
+        "primary_type": " Ground"
+    },
+    {
+        "n_id": " #624",
+        "secondary_type": " Steel",
+        "name": " Pawniard",
+        "primary_type": " Dark"
+    },
+    {
+        "n_id": " #625",
+        "secondary_type": " Steel",
+        "name": " Bisharp",
+        "primary_type": " Dark"
+    },
+    {
+        "n_id": " #627",
+        "secondary_type": " Flying",
+        "name": " Rufflet",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #628",
+        "secondary_type": " Flying",
+        "name": " Braviary",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #629",
+        "secondary_type": " Flying",
+        "name": " Vullaby",
+        "primary_type": " Dark"
+    },
+    {
+        "n_id": " #630",
+        "secondary_type": " Flying",
+        "name": " Mandibuzz",
+        "primary_type": " Dark"
+    },
+    {
+        "n_id": " #632",
+        "secondary_type": " Steel",
+        "name": " Durant",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #633",
+        "secondary_type": " Dragon",
+        "name": " Deino",
+        "primary_type": " Dark"
+    },
+    {
+        "n_id": " #634",
+        "secondary_type": " Dragon",
+        "name": " Zweilous",
+        "primary_type": " Dark"
+    },
+    {
+        "n_id": " #635",
+        "secondary_type": " Dragon",
+        "name": " Hydreigon",
+        "primary_type": " Dark"
+    },
+    {
+        "n_id": " #636",
+        "secondary_type": " Fire",
+        "name": " Larvesta",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #637",
+        "secondary_type": " Fire",
+        "name": " Volcarona",
+        "primary_type": " Bug"
+    },
+    {
+        "n_id": " #638",
+        "secondary_type": " Fighting",
+        "name": " Cobalion",
+        "primary_type": " Steel"
+    },
+    {
+        "n_id": " #639",
+        "secondary_type": " Fighting",
+        "name": " Terrakion",
+        "primary_type": " Rock"
+    },
+    {
+        "n_id": " #640",
+        "secondary_type": " Fighting",
+        "name": " Virizion",
+        "primary_type": " Grass"
+    },
+    {
+        "n_id": " #642",
+        "secondary_type": " Flying",
+        "name": " Thundurus",
+        "primary_type": " Electric"
+    },
+    {
+        "n_id": " #643",
+        "secondary_type": " Fire",
+        "name": " Reshiram",
+        "primary_type": " Dragon"
+    },
+    {
+        "n_id": " #644",
+        "secondary_type": " Electric",
+        "name": " Zekrom ",
+        "primary_type": " Dragon"
+    },
+    {
+        "n_id": " #645",
+        "secondary_type": " Flying",
+        "name": " Landorus",
+        "primary_type": " Ground"
+    },
+    {
+        "n_id": " #646",
+        "secondary_type": " Ice",
+        "name": " Kyurem",
+        "primary_type": " Dragon"
+    },
+    {
+        "n_id": " #647",
+        "secondary_type": " Fighting",
+        "name": " Keldeo",
+        "primary_type": " Water"
+    },
+    {
+        "n_id": " #648",
+        "secondary_type": " Fighting",
+        "name": " Meloetta",
+        "primary_type": " Normal"
+    },
+    {
+        "n_id": " #649",
+        "secondary_type": " Steel",
+        "name": " Genesect",
+        "primary_type": " Bug"
+    }
+]
