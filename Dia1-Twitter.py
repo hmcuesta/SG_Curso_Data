@@ -10,10 +10,10 @@ get_ipython().system(u'pip install twython')
 
 from twython import Twython
 
-ConsumerKey  = "41E1twaPLNgsn0Q4VS5g"
-ConsumerSecret = "augwZxzQGsJuyfzLzGn0ASpherv2YgpeLTKEXXFk"
-AccessToken = "141340589-WhKonOAcDmCX1MVJNpd3UEB2gvzZt2nmPBJfMy3o"
-AccessTokenSecret = "LDsdOa9Mex2yZ0AMud4eUe0mlcqvvsycwp0yneSWQw"
+ConsumerKey  = "..."
+ConsumerSecret = "..."
+AccessToken = "..."
+AccessTokenSecret = "..."
 
 
 twitter = Twython(ConsumerKey,
